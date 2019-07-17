@@ -4,11 +4,11 @@ Toutes les configuration pour stream :
 1440p à 60 ips : 
 
 Résolution : 2 560 x 1 440 pixels
-Plage de débit vidéo : de 9 000 à 18 000 kbit/s
-Framerate : 50 ou 60 FPS
-Keyframe Interva l: 2 seconds
-AVC (h.264) Profile : Main/High
-AVC (h.264) Level : 4.2
+  - Plage de débit vidéo : de 9 000 à 18 000 kbit/s
+  - Framerate : 50 ou 60 FPS
+  - Keyframe Interva l: 2 seconds
+  - AVC (h.264) Profile : Main/High
+  - AVC (h.264) Level : 4.2
 
 1080p à 60 ips :
 
