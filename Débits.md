@@ -1,4 +1,4 @@
-Toutes les configuration pour stream : 
+Toutes les configurations pour stream : 
 ![hey](http://i64.tinypic.com/156zf5h.jpg)]
 
 1440p à 60 ips : 
